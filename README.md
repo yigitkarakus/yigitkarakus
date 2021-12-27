@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yigitkarakus
+- 👋 Hi, I’m Yiğit Karakuş
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 
